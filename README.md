@@ -22,7 +22,9 @@ See /docs for architecture diagrams.
 
 ## Team
 
-[Names, roles]
+Syed Muhammad Hussnain Raza
+Zia Ul Mustafa
+Muhammad Taha
 
 ## Supervisor
 
